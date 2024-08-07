@@ -1,4 +1,4 @@
 # Google-Cloud-Platform-Deployment
 
 
-# https://dl.google.com/dl/clouddsdk/channels/rapid/GoogleCloudSDKInstaller.exe
+# https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
